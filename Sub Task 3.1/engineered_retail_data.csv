@@ -1,0 +1,13 @@
+date,sales,price,store_enc,region_enc,category_Electronics,category_Furniture,category_Grocery,store_type_Semi-Urban,store_type_Urban,brand_freq,product_target_enc
+2023-01-01,120,15000,0,1,True,False,False,False,True,3,106.66666666666667
+2023-01-02,300,150,0,1,False,False,True,False,True,3,350.0
+2023-01-03,90,15000,1,2,True,False,False,False,False,3,106.66666666666667
+2023-01-04,200,1200,1,2,False,False,False,False,False,3,196.66666666666666
+2023-01-05,350,150,2,0,False,False,True,False,True,3,350.0
+2023-01-06,40,25000,2,0,False,True,False,False,True,3,41.666666666666664
+2023-01-07,180,1200,3,3,False,False,False,True,False,3,196.66666666666666
+2023-01-08,35,25000,3,3,False,True,False,True,False,3,41.666666666666664
+2023-01-09,110,15000,0,1,True,False,False,False,True,3,106.66666666666667
+2023-01-10,400,150,1,2,False,False,True,False,False,3,350.0
+2023-01-11,210,1200,2,0,False,False,False,False,True,3,196.66666666666666
+2023-01-12,50,25000,3,3,False,True,False,True,False,3,41.666666666666664

@@ -1,0 +1,13 @@
+date,store,store_type,region,product,brand,category,sales,price
+2023-01-01,Store_A,Urban,North,Phone_X,Brand_A,Electronics,120,15000
+2023-01-02,Store_A,Urban,North,Rice_5kg,Brand_B,Grocery,300,150
+2023-01-03,Store_B,Rural,South,Phone_X,Brand_A,Electronics,90,15000
+2023-01-04,Store_B,Rural,South,Jeans_Men,Brand_C,Clothing,200,1200
+2023-01-05,Store_C,Urban,East,Rice_5kg,Brand_B,Grocery,350,150
+2023-01-06,Store_C,Urban,East,Sofa_3S,Brand_D,Furniture,40,25000
+2023-01-07,Store_D,Semi-Urban,West,Jeans_Men,Brand_C,Clothing,180,1200
+2023-01-08,Store_D,Semi-Urban,West,Sofa_3S,Brand_D,Furniture,35,25000
+2023-01-09,Store_A,Urban,North,Phone_X,Brand_A,Electronics,110,15000
+2023-01-10,Store_B,Rural,South,Rice_5kg,Brand_B,Grocery,400,150
+2023-01-11,Store_C,Urban,East,Jeans_Men,Brand_C,Clothing,210,1200
+2023-01-12,Store_D,Semi-Urban,West,Sofa_3S,Brand_D,Furniture,50,25000
