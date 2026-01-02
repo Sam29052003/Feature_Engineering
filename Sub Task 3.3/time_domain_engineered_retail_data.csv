@@ -1,0 +1,13 @@
+date,store,product,category,sales,price,discount,year,month,week,day,weekday,is_weekend,season,festive_flag,discount_flag,lag_1_day_sales,lag_7_day_sales,rolling_3day_sales,rolling_7day_sales,sales_trend
+2023-01-04,Store_B,Jeans_Men,Clothing,200,1200,0.2,2023,1,1,4,2,0,Winter,1,1,0.0,0.0,0.0,0.0,0.0
+2023-01-07,Store_A,Jeans_Men,Clothing,180,1200,0.1,2023,1,1,7,5,1,Winter,1,1,200.0,0.0,0.0,0.0,0.0
+2023-01-11,Store_B,Jeans_Men,Clothing,210,1200,0.15,2023,1,2,11,2,0,Winter,0,1,180.0,0.0,196.66666666666666,0.0,13.333333333333343
+2023-01-01,Store_A,Phone_X,Electronics,120,15000,0.1,2023,1,52,1,6,1,Winter,1,1,0.0,0.0,0.0,0.0,0.0
+2023-01-03,Store_B,Phone_X,Electronics,90,15000,0.15,2023,1,1,3,1,0,Winter,1,1,120.0,0.0,0.0,0.0,0.0
+2023-01-09,Store_C,Phone_X,Electronics,110,15000,0.05,2023,1,2,9,0,0,Winter,1,1,90.0,0.0,106.66666666666667,0.0,3.3333333333333286
+2023-01-02,Store_A,Rice_5kg,Grocery,300,150,0.05,2023,1,1,2,0,0,Winter,1,1,0.0,0.0,0.0,0.0,0.0
+2023-01-05,Store_C,Rice_5kg,Grocery,350,150,0.0,2023,1,1,5,3,0,Winter,1,0,300.0,0.0,0.0,0.0,0.0
+2023-01-10,Store_A,Rice_5kg,Grocery,400,150,0.0,2023,1,2,10,1,0,Winter,1,0,350.0,0.0,350.0,0.0,50.0
+2023-01-06,Store_C,Sofa_3S,Furniture,40,25000,0.25,2023,1,1,6,4,0,Winter,1,1,0.0,0.0,0.0,0.0,0.0
+2023-01-08,Store_B,Sofa_3S,Furniture,35,25000,0.3,2023,1,1,8,6,1,Winter,1,1,40.0,0.0,0.0,0.0,0.0
+2023-01-12,Store_C,Sofa_3S,Furniture,50,25000,0.2,2023,1,2,12,3,0,Winter,0,1,35.0,0.0,41.666666666666664,0.0,8.333333333333336
